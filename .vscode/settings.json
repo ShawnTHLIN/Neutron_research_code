@@ -4,5 +4,6 @@
         "*.excalidrawlib": "json",
         "vector": "cpp",
         "iosfwd": "cpp"
-    }
+    },
+    "workbench.colorTheme": "GitHub Dark Default"
 }
